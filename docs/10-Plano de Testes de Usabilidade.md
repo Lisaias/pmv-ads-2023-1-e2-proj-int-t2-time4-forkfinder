@@ -1,8 +1,6 @@
 # Plano de Testes de Usabilidade
 
-Com o objetivo de avaliar a qualidade da aplicação, elaboramos o seguinte roteiro abaixo.
-
-Tem-se como ponto principal verificar se o usuário atinge os critérios de êxito elencados no plano de teste. Para isso, observou-se a conclusão de cada tarefa e o tempo necessário para executá-la.
+O teste de usabilidade tem como objetivo a verificação da funcionalidade da interface da plataforma. Isto é, o teste será realizado através de ferramentas que vão permitir o usuário à execução de determinadas tarefas. Dessa forma é possível obter uma análise de usabilidade e das principais dificuldades do sistema. Portanto, o teste tem como propósito garantir uma melhor experiência para o usuário.
 
 # Perfil De Usuários Para Testes
 
@@ -20,7 +18,7 @@ Todos os testes de usabilidade serão realizados em ambiente remoto e os resulta
 # Teste 1 - Usabilidade da Página Inicial
 ||||||
 |--|--|--|--|--|
-|**Usabilidade da Página Inicial**|A aplicação foi responsiva?|A aplicação foi responsiva?|O tempo de resposta da aplicação foi satisfatório?|As informações foram claras?|
+| **Usabilidade da Página Inicial** | A aplicação foi responsiva? | O tempo de resposta da aplicação foi Satisfatório? | As informações foram claras? |
 |Simule clicar nos botões de Login, cadastro para acessar area tela de login e cadastro|||||
 |Simule clicar no botão de cardápio, no qual, deverá ser possível acessar restaurantes com tipos de cardápios desejado|||||
 |Simule clicar nos conteúdos com fotos de tipos de comidas para acessar restaurantes com o cardápio desejado|||||
